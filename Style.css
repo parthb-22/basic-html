@@ -1,0 +1,8 @@
+p{
+    width: 300px;
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 0;
+    left: 100px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
